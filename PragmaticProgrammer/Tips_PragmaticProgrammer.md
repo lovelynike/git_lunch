@@ -1,5 +1,7 @@
 # Tips Progmatic Programmer
 
+<!-- PragmaticProgrammer 책 내용 요약 -->
+
 [Tip 1] 자신의 기술 (Craft)에 관심과 애정을 가져라. 	
 	- 소프트웨어 개발을 잘 해보려는 생각이 없다면 왜 인생을 그 일을 하면서 보내는가?
 	
