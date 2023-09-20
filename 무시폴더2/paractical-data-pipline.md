@@ -71,3 +71,5 @@ AWS DMS(Database Migration Service)
 
   [링크](https://speakerdeck.com/1ambda/machine-learning-on-kubernetes?slide=8)
   
+  change
+  
